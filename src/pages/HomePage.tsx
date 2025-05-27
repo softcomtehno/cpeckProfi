@@ -25,7 +25,7 @@ const HomePage: React.FC = () => {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="animate-fade-in">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">
+              <h1 className="text-4xl md:text-5xl text-white font-bold mb-4">
                 Профессиональная спецодежда для любых условий работы
               </h1>
               <p className="text-lg mb-8 max-w-xl">
